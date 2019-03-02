@@ -1,0 +1,4 @@
+github.com/oko/logif v0.0.0-20190119211401-f8b67615665f h1:rXKUGNhbbzpLjvxK8dFnedqGq2wVq2MogsFL0hCXqJ4=
+github.com/oko/logif v0.0.0-20190119211401-f8b67615665f/go.mod h1:ZXGBWxL8AznaUyQtj6Ha04ILDuTJS4d/ndOLyUCnBEA=
+github.com/spf13/pflag v1.0.3 h1:zPAT6CGy6wXeQ7NtTnaTerfKOsV6V6F8agHXFiazDkg=
+github.com/spf13/pflag v1.0.3/go.mod h1:DYY7MBk1bdzusC3SYhjObp+wFpr4gzcvqqNjLnInEg4=
